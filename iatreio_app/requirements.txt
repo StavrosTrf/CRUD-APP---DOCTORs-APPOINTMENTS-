@@ -1,0 +1,5 @@
+# Η εφαρμογή χρησιμοποιεί μόνο την Python Standard Library
+# (tkinter, sqlite3, hashlib, dataclasses).
+#
+# Εξάρτηση μόνο για την εκτέλεση των unit tests:
+pytest>=7.0

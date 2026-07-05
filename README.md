@@ -21,7 +21,7 @@ python main.py
 
 # Εκτέλεση unit tests
 pip install pytest
-pytest
+python -m pytest
 ```
 
 Στην πρώτη εκτέλεση δημιουργείται αυτόματα το αρχείο `iatreio.db` με

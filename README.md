@@ -114,8 +114,8 @@ iatreio_app/
 καθαρή βάση SQLite στη μνήμη (`:memory:`).
 
 ```bash
-pytest            # αναλυτικά
-pytest -q         # σύντομα
+python -m pytest <onoma_arxeiou_unittest>            # αναλυτικά
+python -m pytest <onoma_arxeiou_unittest>  -q        # σύντομα
 ```
 
 Κατανομή:
